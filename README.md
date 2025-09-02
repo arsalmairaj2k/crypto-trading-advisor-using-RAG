@@ -29,7 +29,7 @@ An intelligent crypto trading advisor powered by **Retrieval-Augmented Generatio
 
 ## 🛠️ Technology Stack
 
-- **LLM**: Google Gemini 1.5 Flash via LangChain
+- **LLM**: Google Gemini 1.5 Flash or pro via LangChain
 - **Vector Database**: FAISS (Facebook AI Similarity Search)
 - **Data Sources**: CoinGecko API, RSS Feeds, yfinance
 - **Framework**: LangChain for RAG pipeline
