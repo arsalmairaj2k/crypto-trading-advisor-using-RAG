@@ -4,7 +4,6 @@ An intelligent crypto trading advisor powered by **Retrieval-Augmented Generatio
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-Latest-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## ✨ Features
 
@@ -46,7 +45,7 @@ An intelligent crypto trading advisor powered by **Retrieval-Augmented Generatio
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/crypto-trading-rag.git
+git clone https://github.com/yourusername/crypto-trading-advisor-using-RAG.git
 cd crypto-trading-rag
 ```
 
